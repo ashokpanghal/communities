@@ -126,7 +126,7 @@
                         </embedded>
                     </embeddeds>
                     <properties>
-                        <acHandling>overwrite</acHandling>
+                        <acHandling>merge</acHandling>
                         <!-- we don't want the build-user -->
                         <createdBy>Adobe</createdBy>
                     </properties>
